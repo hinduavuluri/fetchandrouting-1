@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.blog-container {
+  padding: 30px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.title {
+  font-family: roboto;
+  font-size: 40px;
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+}
+.avatar-url {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  margin-right: 50px;
+}
+.author {
+  font-family: roboto;
+  font-size: 20px;
+  color: #000000;
+}
+.content {
+  font-family: roboto;
+  font-size: 17px;
+  color: #2f4f4f;
+}
+.image-url {
+  height: 25%;
+  width: 65%;
+  margin: 15px;
+}
